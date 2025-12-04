@@ -1,0 +1,20 @@
+Place-->As dictionary key , Block, Floor,Place Name
+Library,GJBC,2, Second floor library?
+Library,GJBC,1, First Floor Library?
+Canteen,GJBC,0, GJBC Canteen
+Canteen,GJBC,1,Hornbill
+Canteen, OAT,0, General Stores 
+Canteen, BE BLOCK,0,PES Food Point
+Canteen , BE BLOCK,13, BE BLock Canteen -13th Floor
+Basketball court ,GJBC,-3, Basketball Court at GJBC B2
+Gym,GJBC,-2, Gym at GJBC- B1
+Opera house, GJBC,1, Opera House
+Chess, GJBC,-3, Chess Area
+Squash court , GJBC,-3, Squash Court
+TT, GJBC,-3,Table Tennis Court
+Badminton Court, GJBC,-3,Badminton Court
+Performing arts centre ,GJBC,-3,Performing arts centre
+Yoga Studio , GJBC,-2,Yoga Studio
+1A Audi ,GJBC,-3, Auditorium 1A
+Silent reflections,BE BLOCK,13,Silent Reflections
+House of sac,BE BLOCK,13,House of Sac
